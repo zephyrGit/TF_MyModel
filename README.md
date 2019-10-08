@@ -9,4 +9,5 @@
 5. TensorFlow1.x 风格迁移  
 6. TensorFlow2.0 风格迁移  
 7. Face_Recognizer_TF2  [基于TensorFlow2.0，包含了OpenCV、dlib和MTCNN（facenet实现）三种人脸检测方法，包含dlib、facenet和VGG16三种人脸特征提取方法]
+8. 个性化电影推荐[基于TensorFlow2.0、文本卷积神经网络建立推荐系统]
 
